@@ -25,3 +25,8 @@ Quick-Start Command List (in order):
 
 7. `hello-world`
 	* Executes the hello-world script, and should print 'Hello, World!' to the console
+
+
+## Running a script without the `.sh` extension
+
+If your script has an `.sh` extension, simply `cd` into the directory containing the script and run `mv script-name.sh script-name` to rename the script without the `.sh` extension.

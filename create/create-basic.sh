@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Create .gitignore file and add usual folders/filenames (seperated by newline) to ignore on each commit
 echo 'node_modules
 .env
